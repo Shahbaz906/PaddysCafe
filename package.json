@@ -1,0 +1,22 @@
+{
+  "name": "paddyscafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahbaz906/PaddysCafe.git"
+  },
+  "author": "shahbaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahbaz906/PaddysCafe/issues"
+  },
+  "homepage": "https://github.com/Shahbaz906/PaddysCafe#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
